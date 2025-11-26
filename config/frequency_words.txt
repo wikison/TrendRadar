@@ -1,11 +1,3 @@
-claude
-Anthropic
-iphone
-mac
-ios
 Android
 gay
-ai
-人工智能
-自动驾驶
-科技
+信息安全
